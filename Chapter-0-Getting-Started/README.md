@@ -2,11 +2,10 @@
 
 ## Installing an IDE
 
-Class demonstrations are taught using Visual Studio, which is installed on all the G.32 PCs. If using your own laptops in class you are welcome to use any IDE of your choice. For example if you are on Mac we’d recommend using XCode. To practice programming outside of class you should ensure you have an IDE installed on your home computer. If you are unsure of how to install an IDE contact your tutor for help.
+Class demonstrations are taught using Visual Studio. To practice programming outside of class you should ensure you have an IDE installed on your home computer/laptop. If you are unsure of how to install an IDE contact your tutor for help.
 
-If you are struggling to install a compiler on your own computer online ones are also available which allow you to run and save your code (so there’s no excuse for not coding outside of class).
 
-You can find information on how to start a project in Visual Studio or Xcode in the guides provided on Aura / your GitHub repository.
+You can find information on how to start a project in Visual Studio in the guides provided on StudyLab / your GitHub repository.
 
 
 
@@ -29,15 +28,6 @@ Throughout CodeLab we will be using GitHub to keep track of the code we create. 
 Guides on using GitHub can be found on Aura and if you have any questions let your tutor know.
 
 
-
-## 1-2-1 Tutorials
-
-If you are struggling with any of the concepts introduced in class and would like some additional programming help 1-2-1 tutorials are always available. To book a tutorial visit:
-
-https://jhobbs.youcanbook.me
-
-
-
 ## Spot an error?
 
-If you spot an error in these chapters please let me know via j.hobbs@bathspa.ac.uk
+If you spot an error in these chapters please let me know via arshiya@bathspa.ae
